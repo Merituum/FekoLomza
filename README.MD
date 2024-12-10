@@ -9,5 +9,7 @@
 # SINR
 ![SNR](img/SINR.png)
 ![SNR_TAB](img/SINR%20tab.png)
-# Reszta dokumentacji w pliku PDF
+# Pod tym linkiem będzie znajdowała się dokumentacja projektu. 
+Plik ten jest w trakcie pisania. Znajduje się w nim, aktualnie, zarys dokumentacji oraz pozostałe wyniki symulacji,
+a także bibliografia i źródła innych danych wykorzystanych w projekcie.
 [Link do pliku PDF](https://github.com/Merituum/FekoLomza/blob/main/Symulacja_sieci_mobilnej_LTE__2600MHz__na_terenie_miasta_%C5%81om%C5%BCa__woj__Podlaskie_.pdf)
