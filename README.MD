@@ -1,5 +1,5 @@
 ## Symulacja sieci LTE na terenie miasta Łomża na częstotliwości 2600 MHz (B7, 15MHz)
-# W tym repozytorium znajduje się symulacja sieci LTE na terenie miasta Łomża.
+<!-- # W tym repozytorium znajduje się symulacja sieci LTE na terenie miasta Łomża. -->
 # Throughput
 ![Throughput](img/throughput.png)
 ![Throughputtab](img/throughput%20tabela.png)
